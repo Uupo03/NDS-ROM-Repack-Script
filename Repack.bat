@@ -1,6 +1,8 @@
 @echo OFF
 if not exist "current.nds" ECHO Error, no current.nds, close this window
 if not exist "current.nds" pause >nul
+if exist "repacked.nds" ECHO !WARNING! Pressing any key will OVERWRITE the repcked.nds in this directory. !WARNING!
+if exist "repacked.nds" pause >nul
 ECHO Unpacking...
 mkdir NDS_UNPACK
 rd /Q /S NDS_UNPACK
