@@ -4,7 +4,8 @@
 
 1) Place a ROM file in this directory
 2) Run "Repack.bat"
-NOTE: Outputted file will be named "repacked.nds"
+
+***NOTE:** Outputted file will be named "repacked.nds"*
 
 **--Credits--**
 
