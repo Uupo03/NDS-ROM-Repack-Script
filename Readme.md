@@ -1,4 +1,4 @@
-NDS ROM Repack Script by Uupo03
+**NDS ROM Repack Script by Uupo03**
 
 **--Usage--**
 
