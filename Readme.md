@@ -2,10 +2,10 @@
 
 **--Usage--**
 
-1) Place a ROM file in this directory
+1) Place a ROM file in the same directroty  as the script
 2) Run "Repack.bat"
 
-***NOTE:** Outputted file will be named "repacked.nds"*
+***NOTE:** Output file will be called "repacked.nds"*
 
 **--Credits--**
 
